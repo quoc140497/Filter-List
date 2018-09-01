@@ -109,3 +109,4 @@ inneractive-assets.s3.amazonaws.com
 mesu.*
 s3-1.amazonaws.com
 strikeadcdn.s3.amazonaws.com
+asd.com
