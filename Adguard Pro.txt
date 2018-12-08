@@ -34,7 +34,7 @@
 *appserver-*.com
 *appsflyer.com
 *atdmt.*
-*baidu.com
+*baidu*
 *banner*.*
 *banzai.it
 *boy.jp
@@ -71,7 +71,6 @@
 *mojiva.com
 *mydas.mobi
 *naver.net
-*ocsp*.*
 *phluant.com
 *phluantmobile.net
 *pokkt.com
@@ -100,13 +99,11 @@
 *xxx*.*
 *ybcdn.net
 *youmi.net
-admarvel.s3.amazonaws.com
-appldnld.apple.com 
+admarvel.s3.amazonaws.com 
 appnext.hs.llnwd.net
 html5adkit.plusmo.s3.amazonaws.com
 iacpromotion.s3.amazonaws.com
 inneractive-assets.s3.amazonaws.com
-mesu.*
 s3-1.amazonaws.com
 strikeadcdn.s3.amazonaws.com
 *cloudmobi.*
@@ -114,5 +111,6 @@ strikeadcdn.s3.amazonaws.com
 yim3eyv5.top
 y1jxiqds7v.com
 *catch.gift
-graph.facebook.com
 error.facebook.com
+csi.gstatic.com
+*dsce9*
