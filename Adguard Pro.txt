@@ -114,5 +114,5 @@ y1jxiqds7v.com
 error.facebook.com
 csi.gstatic.com
 *dsce9*
-ads.*
+ads*.*
 *ads.*
